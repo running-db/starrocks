@@ -6,7 +6,7 @@ displayed_sidebar: docs
 
 ## 功能
 
-为 StarRocks 设置指定的系统变量或用户自定义变量。您可以通过 [SHOW VARIABLES](SHOW_VARIABLES.md) 查看 StarRocks 的系统变量。有关系统变量的详细信息，请参阅[系统变量](../../../System_variable.md)。有关用户自定义变量的详细信息，请参阅[用户自定义变量](../../../../r../../../user_defined_variables.md
+为 StarRocks 设置指定的系统变量或用户自定义变量。您可以通过 [SHOW VARIABLES](SHOW_VARIABLES.md) 查看 StarRocks 的系统变量。有关系统变量的详细信息，请参阅[系统变量](../../../System_variable.md)。有关用户自定义变量的详细信息，请参阅[用户自定义变量](https://docs.mirrorship.cn/zh/docs/sql-reference/user_defined_variables/)
 
 :::tip
 
